@@ -1,5 +1,5 @@
-Upppp
-https://cdn.discordapp.com/attachments/469831501215694852/644141286806519818/EasyExploitsDLL.dll
+fixed
+https://cdn.discordapp.com/attachments/469831501215694852/644869393146183680/EasyExploitsDLL.dll
 false
 version
 dll
