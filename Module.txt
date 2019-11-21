@@ -1,5 +1,5 @@
 fixedv2
 https://cdn.discordapp.com/attachments/599278046557634582/645040714740400129/EasyExploitsDLL.dll
-true
-version-3b413e03d6f247f2
-https://cdn.discordapp.com/attachments/469831501215694852/646697763534405662/EasyExploitsDLL.dll
+false
+version
+dlllink
