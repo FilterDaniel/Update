@@ -1,5 +1,5 @@
-ezupdateboiiii
-https://cdn.discordapp.com/attachments/469831501215694852/651742810206109706/EasyExploitsDLL.dll
-true
-version-53eb96b404e6400c
+ezupdateboi1
 https://cdn.discordapp.com/attachments/469831501215694852/654300924864495646/EasyExploitsDLL.dll
+false
+version
+dlllink
