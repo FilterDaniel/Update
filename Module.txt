@@ -1,5 +1,5 @@
-didtheydoearly?
-https://cdn.discordapp.com/attachments/469831501215694852/656676624560816149/EasyExploitsDLL.dll
-true
-version-ec3252200f4f4e2c
+adminupdate?
 https://cdn.discordapp.com/attachments/469831501215694852/664455449395068959/EasyExploitsDLL.dll
+false
+version
+dlllink
