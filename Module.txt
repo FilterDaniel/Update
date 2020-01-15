@@ -1,5 +1,5 @@
 adminupdate?
 https://cdn.discordapp.com/attachments/469831501215694852/664455449395068959/EasyExploitsDLL.dll
-false
-version
-dlllink
+true
+version-9276b820337a4e49
+https://cdn.discordapp.com/attachments/469831501215694852/667004258360623138/EasyExploitsDLL.dll
