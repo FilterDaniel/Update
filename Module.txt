@@ -1,5 +1,5 @@
 loll
 https://cdn.discordapp.com/attachments/469831501215694852/672370436801298432/EasyExploitsDLL.dll
-false
-version
-dllink
+true
+version-a35b6d2e3b604b49
+https://cdn.discordapp.com/attachments/469831501215694852/674610427501477906/EasyExploitsDLL.dll
