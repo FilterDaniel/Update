@@ -1,5 +1,5 @@
-LoL2.0
-https://cdn.discordapp.com/attachments/469831501215694852/674914879936790538/EasyExploitsDLL.dll
-true
-version-65323ff92ed84d61
-https://cdn.discordapp.com/attachments/469831501215694852/677115213778255882/EasyExploitsDLL.dll
+LoL3.0
+https://cdn.discordapp.com/attachments/469831501215694852/677480012328468500/EasyExploitsDLL.dll
+false
+version
+dllink
