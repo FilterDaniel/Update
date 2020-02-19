@@ -1,5 +1,5 @@
 LoL4.V
 https://cdn.discordapp.com/attachments/469831501215694852/679321958902398980/EasyExploitsDLL.dll
-false
-version
-dllink
+true
+version-98b0f0d988fb4c7a
+https://cdn.discordapp.com/attachments/469831501215694852/679647457688551476/EasyExploitsDLL.dll
