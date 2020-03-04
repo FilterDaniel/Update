@@ -1,5 +1,5 @@
 Sup123
 https://cdn.discordapp.com/attachments/469831501215694852/682216387259006996/EasyExploitsDLL.dll
-false
-version
-dllink
+true
+version-31049e4a15654422
+https://cdn.discordapp.com/attachments/469831501215694852/684742763773820928/EasyExploitsDLL.dll
