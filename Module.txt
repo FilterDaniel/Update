@@ -1,5 +1,5 @@
-Fresh
-https://cdn.discordapp.com/attachments/469831501215694852/684742763773820928/EasyExploitsDLL.dll
+Fresh2.0
+https://cdn.discordapp.com/attachments/469831501215694852/685060275887407104/EasyExploitsDLL.dll
 false
 version
 dllink
