@@ -1,5 +1,5 @@
 BRUH
 https://cdn.discordapp.com/attachments/469831501215694852/685856860171141122/EasyExploitsDLL.dll
-false
-version
-dllink
+true
+version-59ecb828ebbe4c52
+https://cdn.discordapp.com/attachments/469831501215694852/687240354642001945/EasyExploitsDLL.dll
