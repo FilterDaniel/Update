@@ -1,5 +1,5 @@
-VER
-https://cdn.discordapp.com/attachments/469831501215694852/687831264358957075/EasyExploitsDLL.dll
+BAD
+https://cdn.discordapp.com/attachments/469831501215694852/688735817178415144/EasyExploitsDLL.dll
 false
 version
 dllink
