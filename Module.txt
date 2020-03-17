@@ -1,5 +1,5 @@
-BAD3.0
-https://cdn.discordapp.com/attachments/469831501215694852/688743114847813638/EasyExploitsDLL.dll
+SUN
+https://cdn.discordapp.com/attachments/469831501215694852/689456950618095641/EasyExploitsDLL.dll
 false
 version
 dllink
