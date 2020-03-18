@@ -1,5 +1,5 @@
-SUN
-https://cdn.discordapp.com/attachments/469831501215694852/689456950618095641/EasyExploitsDLL.dll
+SUNHINE
+https://cdn.discordapp.com/attachments/469831501215694852/689797215912329252/EasyExploitsDLL.dll
 false
 version
 dllink
