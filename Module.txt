@@ -1,4 +1,4 @@
-SUNHINE1
-https://cdn.discordapp.com/attachments/469831501215694852/689831326047928320/EasyExploitsDLL.dll
+SUNDAY
+https://cdn.discordapp.com/attachments/469831501215694852/690346858488659999/EasyExploitsDLL.dll
 false
 version
