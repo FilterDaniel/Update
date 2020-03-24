@@ -1,4 +1,4 @@
-D3D
-https://cdn.discordapp.com/attachments/469831501215694852/691636563922255983/EasyExploitsDLL.dll
+FAST
+https://cdn.discordapp.com/attachments/469831501215694852/691975188556021781/EasyExploitsDLL.dll
 false
 version
