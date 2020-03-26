@@ -1,5 +1,5 @@
-FAST
-https://cdn.discordapp.com/attachments/469831501215694852/691975188556021781/EasyExploitsDLL.dll
-true
-version-641d58da1fd54a50
-https://cdn.discordapp.com/attachments/469831501215694852/692363882177626162/EasyExploitsDLL.dll
+smile
+https://cdn.discordapp.com/attachments/469831501215694852/692530859420418109/EasyExploitsDLL.dll
+false
+version
+dll
