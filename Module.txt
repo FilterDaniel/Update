@@ -1,5 +1,5 @@
 smile
 https://cdn.discordapp.com/attachments/469831501215694852/692530859420418109/EasyExploitsDLL.dll
-false
-version
-dll
+true
+version-f45a5a4477a4459c
+https://cdn.discordapp.com/attachments/469831501215694852/694899840592773160/EasyExploitsDLL.dll
