@@ -1,5 +1,5 @@
-what
-https://cdn.discordapp.com/attachments/469831501215694852/699486694080249856/EasyExploitsDLL.dll
-true
-version-a7a702615ebd4c13
+whatupdate?
 https://cdn.discordapp.com/attachments/469831501215694852/699985090846916668/EasyExploitsDLL.dll
+false
+version
+dLL
