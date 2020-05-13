@@ -1,5 +1,5 @@
-upX
-https://cdn.discordapp.com/attachments/469831501215694852/709715445229551656/EasyExploitsDLL.dll
+upFastest
+https://cdn.discordapp.com/attachments/469831501215694852/710138921228435536/EasyExploitsDLL.dll
 false
 version
 dll
