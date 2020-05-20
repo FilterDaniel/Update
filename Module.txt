@@ -1,5 +1,5 @@
-bruhmomentv2
-https://cdn.discordapp.com/attachments/469831501215694852/712146770431574026/EasyExploitsDLL.dll
-true
-version-c1236188328f4133
+fastestr
 https://cdn.discordapp.com/attachments/469831501215694852/712647914232741959/EasyExploitsDLL.dll
+false
+version
+dll
