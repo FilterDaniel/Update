@@ -1,5 +1,5 @@
-fastestr
-https://cdn.discordapp.com/attachments/469831501215694852/712647914232741959/EasyExploitsDLL.dll
+ebicupdate
+https://cdn.discordapp.com/attachments/469831501215694852/713646312968683590/EasyExploitsDLL.dll
 false
 version
 dll
