@@ -1,5 +1,5 @@
-ebicupdate
-https://cdn.discordapp.com/attachments/469831501215694852/713646312968683590/EasyExploitsDLL.dll
-true
-version-feab53d15cfb46d6
+ebicupdate2
 https://cdn.discordapp.com/attachments/469831501215694852/715201020828844073/EasyExploitsDLL.dll
+false
+version
+dd
