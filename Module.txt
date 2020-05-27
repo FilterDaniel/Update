@@ -1,5 +1,5 @@
-ebicupdate2
-https://cdn.discordapp.com/attachments/469831501215694852/715201020828844073/EasyExploitsDLL.dll
+huh
+https://cdn.discordapp.com/attachments/469831501215694852/715211794364235796/EasyExploitsDLL.dll
 false
 version
 dd
