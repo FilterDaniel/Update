@@ -1,5 +1,5 @@
-/shrug
-https://cdn.discordapp.com/attachments/469831501215694852/717222356233224223/EasyExploitsDLL.dll
+/shrugc2
+https://cdn.discordapp.com/attachments/469831501215694852/717345272824463400/EasyExploitsDLL.dll
 false
 version
 dd
