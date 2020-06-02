@@ -1,5 +1,5 @@
-huh
-https://cdn.discordapp.com/attachments/469831501215694852/715211794364235796/EasyExploitsDLL.dll
+huhv2
+https://cdn.discordapp.com/attachments/469831501215694852/717211596396429362/EasyExploitsDLL.dll
 false
 version
 dd
