@@ -1,5 +1,5 @@
-/shrugv2
-https://cdn.discordapp.com/attachments/469831501215694852/717371801105334342/EasyExploitsDLL.dll
-true
-version-0703e2870c6e453
-https://cdn.discordapp.com/attachments/469831501215694852/717732396568543262/EasyExploitsDLL.dll
+waw
+https://cdn.discordapp.com/attachments/469831501215694852/717761032163950592/EasyExploitsDLL.dll
+false
+version
+dd
