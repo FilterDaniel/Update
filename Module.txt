@@ -1,5 +1,5 @@
-waw
-https://cdn.discordapp.com/attachments/469831501215694852/717761032163950592/EasyExploitsDLL.dll
+waw1
+https://cdn.discordapp.com/attachments/469831501215694852/717901121636794418/EasyExploitsDLL.dll
 false
 version
 dd
