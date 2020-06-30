@@ -1,5 +1,5 @@
 bruh1
 https://cdn.discordapp.com/attachments/469831501215694852/725338352814915594/EasyExploitsDLL.dll
-false
-version
-dll
+true
+version-6198d7a03fe74341
+https://cdn.discordapp.com/attachments/469831501215694852/727487344114139177/EasyExploitsDLL.dll
