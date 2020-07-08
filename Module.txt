@@ -1,5 +1,5 @@
 jitgangv2
 https://cdn.discordapp.com/attachments/469831501215694852/729895378349981706/EasyExploitsDLL.dll
 true
-version-6198d7a03fe74341
-https://cdn.discordapp.com/attachments/469831501215694852/727487344114139177/EasyExploitsDLL.dll
+version-46d3c9eff36c4e0c
+https://cdn.discordapp.com/attachments/469831501215694852/730420905490251776/EasyExploitsDLL.dll
