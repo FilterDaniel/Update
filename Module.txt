@@ -1,5 +1,5 @@
-up
-https://cdn.discordapp.com/attachments/469831501215694852/730420905490251776/EasyExploitsDLL.dll
+up_id
+https://cdn.discordapp.com/attachments/469831501215694852/730728984152899635/EasyExploitsDLL.dll
 false
 version
 dll
