@@ -1,5 +1,5 @@
-up2
-https://cdn.discordapp.com/attachments/469831501215694852/735481210058571816/EasyExploitsDLL.dll
-true
-version-c0b4b6e36f3141a5
-https://cdn.discordapp.com/attachments/469831501215694852/738036758608085125/EasyExploitsDLL.dll
+up2v2
+https://cdn.discordapp.com/attachments/469831501215694852/738182395227799642/EasyExploitsDLL.dll
+false
+version
+dll
