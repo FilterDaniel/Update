@@ -1,5 +1,5 @@
-cotranspilerwinning_also_luauwinningv2
-https://cdn.discordapp.com/attachments/469831501215694852/752334874387415101/EasyExploitDLL.dll
+cotranspilerwinning_also_luauwinningv3
+https://cdn.discordapp.com/attachments/469831501215694852/752409667396698193/EasyExploitDLL.dll
 false
 version
 abc
