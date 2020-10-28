@@ -1,5 +1,5 @@
 co_transpilerwinning_also_ez_luauwinningalwayswinning33
 https://cdn.discordapp.com/attachments/469831501215694852/766860460796280832/EasyExploitDLL.dll
 true
-version-4aa789c1f55144da
-https://cdn.discordapp.com/attachments/469831501215694852/768811469223362560/EasyExploitDLL.dll
+version-9fd711f446e54984
+https://cdn.discordapp.com/attachments/469831501215694852/771021026645639198/EasyExploitDLL.dll
