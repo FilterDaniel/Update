@@ -1,5 +1,5 @@
 co_transpilerwinning_also_ez_luauwinningalwayswinning_fixedandupdatedv2
 https://cdn.discordapp.com/attachments/760412369854922762/774796070000787466/EasyExploitDLL.dll
-false
-version
-d
+true
+version-316963e1a7c04db4
+https://cdn.discordapp.com/attachments/760412369854922762/776087703283433493/EasyExploitDLL.dll
