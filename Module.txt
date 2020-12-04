@@ -1,5 +1,5 @@
-easyapiupdated
-https://cdn.discordapp.com/attachments/469831501215694852/783848994945892372/EasyExploitDLL.dll
+easyapiupdatedv2
+https://cdn.discordapp.com/attachments/469831501215694852/784301499274231848/EasyExploitDLL.dll
 false
 version
 dl
