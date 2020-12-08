@@ -1,5 +1,5 @@
-easyapiupdatedv2
-https://cdn.discordapp.com/attachments/469831501215694852/784301499274231848/EasyExploitDLL.dll
+easy_improved_thmd_module
+https://cdn.discordapp.com/attachments/779249778386665493/785886197004107836/EasyExploitDLL.dll
 false
 version
 dl
