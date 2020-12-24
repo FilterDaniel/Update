@@ -1,5 +1,5 @@
-updatedv2
-https://cdn.discordapp.com/attachments/779633890297511946/787119811763240990/EasyExploitDLL.dll
+new_guest
+https://cdn.discordapp.com/attachments/469831501215694852/791633156092461096/EasyExploitDLL.dll
 false
 ver
 d
