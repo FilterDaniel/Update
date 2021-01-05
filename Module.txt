@@ -1,5 +1,5 @@
-kekwv2
-https://cdn.discordapp.com/attachments/747562880026804355/795457920368115812/EasyExploitDLL.dll
+fixed
+https://cdn.discordapp.com/attachments/469831501215694852/795984400436166676/EasyExploitDLL.dll
 false
 ver
 d
