@@ -1,5 +1,5 @@
-reverted
-https://cdn.discordapp.com/attachments/469831501215694852/795984400436166676/EasyExploitDLL.dll
-true
-version-c180747f2f824fb6
+updated
 https://cdn.discordapp.com/attachments/469831501215694852/796385926245777438/EasyExploitDLL.dll
+false
+version
+d
