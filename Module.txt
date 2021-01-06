@@ -1,5 +1,5 @@
-6_jan
-https://cdn.discordapp.com/attachments/469831501215694852/796164859687206912/EasyExploitDLL.dll
+6_janv2
+https://cdn.discordapp.com/attachments/469831501215694852/796166560036552724/EasyExploitDLL.dll
 false
 ver
 d
