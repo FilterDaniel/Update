@@ -1,5 +1,5 @@
-updated
-https://cdn.discordapp.com/attachments/469831501215694852/796385926245777438/EasyExploitDLL.dll
+updatedv2
+https://cdn.discordapp.com/attachments/779633890297511946/797759625105244200/EasyExploitDLL.dll
 false
 version
 d
