@@ -1,5 +1,5 @@
-updated_latest_new
-https://cdn.discordapp.com/attachments/760412369854922762/812159517399187506/EasyExploitDLL.dll
-true
-version-23850bffd15b4a88
+updated_latest_newv2
 https://cdn.discordapp.com/attachments/760412369854922762/814103111366606858/EasyExploitDLL.dll
+false
+ver
+dll
