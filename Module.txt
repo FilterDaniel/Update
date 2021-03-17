@@ -1,5 +1,5 @@
 updatedkekw
 https://cdn.discordapp.com/attachments/469831501215694852/818999970031861830/EasyExploitDLL.dll
-false
-ver
-dll
+true
+version-c52bceabee8f40e5
+https://cdn.discordapp.com/attachments/469831501215694852/821723069672456262/EasyExploitDLL.dll
