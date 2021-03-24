@@ -2,4 +2,4 @@ updatedv2
 https://cdn.discordapp.com/attachments/779633890297511946/821899478407315456/EasyExploitDLL.dll
 true
 version-c98d7922bb3d4719
-https://cdn.discordapp.com/attachments/469831501215694852/824270187917213726/EasyExploitDLL.dll
+https://cdn.discordapp.com/attachments/469831501215694852/824284665384402944/EasyExploitDLL.dll
