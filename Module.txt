@@ -1,5 +1,5 @@
-updatedv5
-https://cdn.discordapp.com/attachments/469831501215694852/824800532044578848/EasyExploitDLL.dll
+updatedv10
+https://cdn.discordapp.com/attachments/469831501215694852/826619425255194664/EasyExploitDLL.dll
 false
 ver
 dll
