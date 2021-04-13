@@ -1,5 +1,5 @@
-updatedlatest
-https://cdn.discordapp.com/attachments/469831501215694852/829722060636946442/EasyExploitDLL.dll
+updatedlatestv2
+https://cdn.discordapp.com/attachments/469831501215694852/831357910638526504/EasyExploitDLL.dll
 false
 ver
 dll
