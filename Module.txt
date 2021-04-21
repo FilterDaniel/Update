@@ -1,5 +1,5 @@
 updatedlatest_malta?_soundslike_us
-https://cdn.ryos.best/manager/wl/?id=wo2qonT4RobXFpWoqNrTVV1bdk63e7r6&fmode=download
+https://raw.githubusercontent.com/GreenMs02/Update/master/EasyExploitDLL.dll
 false
 ver
 dll
