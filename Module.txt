@@ -1,5 +1,5 @@
 updatedlatest_v2
-http://easyexploits.net/bin/EasyExploitDLL.dll
+https://easyexploits.net/bin/EasyExploitDLL.dll
 false
 ver
 dll
