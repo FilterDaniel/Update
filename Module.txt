@@ -1,5 +1,5 @@
-updatedlatest_malta?_soundslike_us
-https://raw.githubusercontent.com/GreenMs02/Update/master/EasyExploitDLL.dll
-true
-version-b69117cbf3b945ef
-https://raw.githubusercontent.com/GreenMs02/Update/master/EasyExploitDLL.up.dll
+updatedlatest_v2
+https://easyexploits.net/bin/EasyExploitDLL.dll
+false
+ver
+dll
