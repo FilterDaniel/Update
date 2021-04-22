@@ -1,5 +1,5 @@
-updatedlatest_v3
-https://easyexploits.net/bin/EasyExploitDLL.dll
+updatedlatest_v4
+https://raw.githubusercontent.com/GreenMs02/Update/master/EasyExploitDLL.dll
 false
 ver
 dll
