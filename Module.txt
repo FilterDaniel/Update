@@ -1,4 +1,4 @@
-updatedlatest_v6
+updatedlatest_v7
 https://raw.githubusercontent.com/GreenMs02/Update/master/EasyExploitDLL.dll
 false
 v
