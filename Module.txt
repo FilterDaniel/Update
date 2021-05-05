@@ -1,5 +1,5 @@
-updatedlatest_v7
-https://raw.githubusercontent.com/GreenMs02/Update/master/EasyExploitDLL.dll
-true
-version-a28f2f02fcb14a89
+updatedlatest!
 https://raw.githubusercontent.com/GreenMs02/Update/master/EasyExploitDLLup.dll
+false
+vr
+dll
