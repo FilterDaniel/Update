@@ -1,5 +1,5 @@
 updatedlatest_v7
 https://raw.githubusercontent.com/GreenMs02/Update/master/EasyExploitDLL.dll
-false
-v
-d
+true
+version-a28f2f02fcb14a89
+https://raw.githubusercontent.com/GreenMs02/Update/master/EasyExploitDLLup.dll
