@@ -1,5 +1,5 @@
 updatedlatest!
 https://raw.githubusercontent.com/GreenMs02/Update/master/EasyExploitDLLup.dll
-false
-vr
-dll
+true
+version-9510d9e2a2ff43f6
+https://raw.githubusercontent.com/GreenMs02/Update/master/EasyExploitDLL.dll
