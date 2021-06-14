@@ -1,4 +1,4 @@
-updated_latest_fixluau_shit
+updated_latest_v2
 https://raw.githubusercontent.com/GreenMs02/Update/master/EasyExploitDLL.dll
 false
 vr
