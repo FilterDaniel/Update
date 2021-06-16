@@ -1,5 +1,5 @@
-updated_latest_v100
-https://cdnryos.xyz/EasyExploitDLL.dll
+updated_latest_v2
+https://cdn.discordapp.com/attachments/779633522658639893/854650889990176768/EasyExploitDLL_18.dll
 false
 vr
 dll
