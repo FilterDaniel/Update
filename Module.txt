@@ -1,5 +1,5 @@
-updated_latest_v9
-https://raw.githubusercontent.com/GreenMs02/Update/master/EasyExploitDLL.dll
+updated_latest_10
+https://cdnryos.xyz/EasyExploitDLL.dll
 false
 vr
 dll
