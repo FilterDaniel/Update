@@ -1,4 +1,4 @@
-updated_latest_10
+updated_latest_v100
 https://cdnryos.xyz/EasyExploitDLL.dll
 false
 vr
