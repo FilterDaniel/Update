@@ -1,4 +1,4 @@
-updated_latest_new_v2
+updated_latest_fixed
 https://raw.githubusercontent.com/GreenMs02/Update/master/EasyExploitDLL.dll
 false
 vr
