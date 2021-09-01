@@ -1,7 +1,5 @@
-updated_sorryforlate
+namethiswhatever_version
 https://raw.githubusercontent.com/GreenMs02/Update/master/EasyExploitDLL_latest.dll
 false
 vr
 dll
-
-poop
