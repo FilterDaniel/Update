@@ -1,11 +1,5 @@
-namethiswhatever_version
-https://raw.githubusercontent.com/GreenMs02/Update/master/EasyExploitDLL_latest.dll
+idev_didnt_push
+https://github.com/FilterDaniel/Update/blob/master/EasyExploits%20(8).dll
 false
 vr
 dll
-
-
-test tes tttt test !!!
-
-
-fat balls
