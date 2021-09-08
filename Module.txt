@@ -1,5 +1,5 @@
 idev_didnt_push
-https://github.com/FilterDaniel/Update/blob/master/EasyExploits%20(8).dll
+https://github.com/FilterDaniel/Update/raw/master/EasyExploits%20(8).dll
 false
 vr
 dll
