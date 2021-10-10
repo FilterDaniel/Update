@@ -1,5 +1,5 @@
-version-d0e0f9747ed3455c
-https://cdn.discordapp.com/attachments/779633522658639893/896872049044246538/Dll1.dll
+afasag
+https://cdn.discordapp.com/attachments/753114724215947267/895382813388455956/exploit-main.dll
 false
 vr
 dll
