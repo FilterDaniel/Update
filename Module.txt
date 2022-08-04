@@ -1,5 +1,5 @@
-030822
-https://cdn.discordapp.com/attachments/779633522658639893/1004482699106467891/Dll2.dll
+040822
+https://github.com/FilterDaniel/Update/raw/master/Dll2.dll
 false
-030822_H
+040822_H
 dll
