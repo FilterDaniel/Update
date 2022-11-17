@@ -1,5 +1,5 @@
-111122
-https://github.com/FilterDaniel/Update/raw/master/Dll2111122.dll
+171122
+https://cdn.discordapp.com/attachments/779633522658639893/1042615076651274280/Dll2.dll
 false
-111122_H
+171122_H
 dll
