@@ -1,5 +1,5 @@
 201222
-https://github.com/FilterDaniel/Update/blob/master/Dll2201222.dll
+https://github.com/FilterDaniel/Update/raw/master/Dll2201222.dll
 false
 201222_H
 dll
