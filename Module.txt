@@ -1,5 +1,5 @@
-210123
-https://cdn.discordapp.com/attachments/1054512708722098246/1062663593578999888/Dll2110123.dll
+130123
+https://github.com/FilterDaniel/Update/blob/master/Dll2.dll
 false
-210123_3_H
+130123_3_H
 dll
