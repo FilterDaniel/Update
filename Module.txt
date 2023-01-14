@@ -1,5 +1,5 @@
 130123
-https://github.com/FilterDaniel/Update/blob/master/Dll2.dll
+https://github.com/FilterDaniel/Update/raw/master/Dll2.dll
 false
 130123_3_H
 dll
