@@ -1,5 +1,5 @@
-300123-1-2
-https://github.com/FilterDaniel/Update/raw/master/Dll2300123-1.dll
+300123-2020
+https://cdn.discordapp.com/attachments/1069746187042820149/1069746660613308517/Dll2.dll
 false
-300123-1-2_H
+300123-2020_H
 dll
