@@ -1,5 +1,5 @@
-030222-1
-https://github.com/FilterDaniel/Update/raw/master/Dll2.dll
+030222-2
+https://raw.githubusercontent.com/FilterDaniel/Update/master/Dll2.dll
 false
-030223-1_H
+030223-2_H
 dll
