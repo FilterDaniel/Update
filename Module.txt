@@ -1,5 +1,5 @@
 030323
-https://github.com/FilterDaniel/Update/raw/master/EasyInitializer030323.exe
+https://raw.githubusercontent.com/FilterDaniel/Update/master/Dll2030323.dll
 false
 030323_H
 dll
