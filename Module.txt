@@ -1,5 +1,5 @@
-020322
-https://raw.githubusercontent.com/FilterDaniel/Update/master/Dll2020322.dll
+030323
+https://github.com/FilterDaniel/Update/raw/master/EasyInitializer030323.exe
 false
-020322_H
+030323_H
 dll
