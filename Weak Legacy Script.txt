@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/laderite/zen/main/scripts/Weak_Legacy.lua'))()
