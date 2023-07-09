@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/laderite/zen/main/scripts/Weak_Legacy.lua'))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/mac2115/Asteria-free/main/AsteriaLoader'),true))()
